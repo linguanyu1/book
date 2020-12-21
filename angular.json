@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "books"
+  "defaultProject": "books",
+  "cli": {
+    "analytics": "ab6e4bf4-4e70-4bbe-abdb-f1ea476918db"
+  }
 }
